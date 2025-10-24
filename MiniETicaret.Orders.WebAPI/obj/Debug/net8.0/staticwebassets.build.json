@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZtE9WcHTV16H5rAh3kojGwTTOTnqJlniKo0wiKPceUw=",
+  "Source": "MiniETicaret.Orders.WebAPI",
+  "BasePath": "_content/MiniETicaret.Orders.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MiniETicaret.ShoppingCarts.WebAPI.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MiniETicaret.Orders.WebAPI.props" />
+</Project>

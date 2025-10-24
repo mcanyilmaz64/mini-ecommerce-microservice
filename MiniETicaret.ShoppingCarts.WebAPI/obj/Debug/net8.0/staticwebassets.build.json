@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rYGIk8gpvg+eB3bnwAt6xK7kgwDqb0aah2LeOnoa7Wk=",
+  "Source": "MiniETicaret.ShoppingCarts.WebAPI",
+  "BasePath": "_content/MiniETicaret.ShoppingCarts.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

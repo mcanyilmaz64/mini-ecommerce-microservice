@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MiniETicaret.Products.WebAPI\\Dtos",
+    "\\MiniETicaret.Products.WebAPI\\Models",
+    "\\MiniETicaret.ShoppingCarts.WebAPI",
+    "\\MiniETicaret.ShoppingCarts.WebAPI\\Dtos",
+    "\\MiniETicaret.ShoppingCarts.WebAPI\\Models"
+  ],
+  "SelectedNode": "\\MiniETicaret.ShoppingCarts.WebAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

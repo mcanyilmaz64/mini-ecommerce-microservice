@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kLckcCtjtTmrLqtF/W4nsuB/JljL+awlyoM+QtlwFPg=",
+  "Source": "MiniETicaret.Gateway.YARP",
+  "BasePath": "_content/MiniETicaret.Gateway.YARP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
